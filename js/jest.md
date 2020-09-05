@@ -1,4 +1,4 @@
-#JEST RECIPE FOR VIMINSPECTOR
+# Jest recipe
 
 Install the adapter for Node: `install_gadget.py --force-enable-node` in vimspector folder
 (be sure to update the lasted vimspector and node)

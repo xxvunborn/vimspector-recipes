@@ -1,4 +1,4 @@
-REACT RECIPE FOR VIMINSPECTOR
+# Go recipe
 
 Install the adapter for go: `:VimspectorInstall vscode-go` in the terminal or `./install_gadget.py --enable-go` in the vimspector folder
 Install devle `go get -u github.com/go-delve/delve/cmd/dlv`

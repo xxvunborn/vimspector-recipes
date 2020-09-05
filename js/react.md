@@ -1,4 +1,4 @@
-REACT RECIPE FOR VIMINSPECTOR
+# React recipe
 
 Install the adapter for Chrome: `:VimspectorInstall debugger-for-chrome` or `./install_gadget.py --force-enable-chrome` in vimspector folder
 
